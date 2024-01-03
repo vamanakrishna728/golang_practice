@@ -4,6 +4,7 @@ https://github.com/vamanakrishna728/golang_practice.git
 
 git@github.com:vamanakrishna728/golang_practice.git
 
+This is sai github update line, i am change this file(commit changes) 
 
 echo "# golang_practice" >> README.md
 git init
